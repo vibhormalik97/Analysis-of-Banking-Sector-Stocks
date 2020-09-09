@@ -1,5 +1,5 @@
 # Analysis-of-Banking-Sector-Stocks
-STATISTICAL ANALYSIS OF BANKING STOCK RETURNS¶
+
 INTRODUCTION
 Description of Data Sets:
 
